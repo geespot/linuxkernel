@@ -8,3 +8,6 @@ https://www.kernel.org/
    git commit -m "first commit"   
    git remote add origin https://github.com/geespot/linuxkernel.git   
    git push -u origin master   
+
+# 下载 
+  git clone git://git.kernel.org/pub/scm/linux/kernel/git/torvalds/
